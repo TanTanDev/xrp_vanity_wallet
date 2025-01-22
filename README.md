@@ -1,4 +1,6 @@
 # Xrp Vanity Wallet generator
+![](demo_image.png)
+
 written in rust, utilizing xrpl-rust library for wallet creation
 
 ## how to use 
