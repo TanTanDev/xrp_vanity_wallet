@@ -1,0 +1,3 @@
+word: "amazingWord"
+classic address: rAmazingWord-----------------------
+Wallet { seed: "sEd----------------------------", public_key: "ED----------------------------------------------------------------", private_key: "ED----------------------------------------------------------------", classic_address: "rAmazingWord-----------------------", sequence: 0 }

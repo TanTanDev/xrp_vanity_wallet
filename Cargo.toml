@@ -1,0 +1,9 @@
+[package]
+name = "xrp_vanity_wallet"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+indicatif = "0.17.9"
+num_cpus = "1.16.0"
+xrpl-rust = "0.4.0"
